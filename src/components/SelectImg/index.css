@@ -1,0 +1,15 @@
+.main{
+  display: flex;
+}
+
+.img-container{
+  height: 120px;
+  width: 120px;
+  position: relative;
+}
+
+.checkbox{
+  position: absolute;
+  top: 4px;
+  left: 6px;
+}
